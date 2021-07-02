@@ -26,6 +26,8 @@ $ pkg install git
 
 $ git clone https://github.com/T34M-B4DS/Deface
 
+$ cd Deface
+
 $ python2 dp.py
 
 # Team Bads
